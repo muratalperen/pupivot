@@ -1,0 +1,68 @@
+{
+	"404Title":"Sayfa Bulunamadı!",
+	"404Description":"Bağlanmaya çalıştığınız sayfa bulunamadı (404 hatası). Bağlanmak istediğiniz sayfayı üstteki arama bölümünden aratabilir veya site yönetimiyle <a href=\"~URLL~contact\">iletişim</a>e geçebilirsiniz.",
+
+	"carousel1Title":"Sunu 1 Başlığı",
+	"carousel1Content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+	"carousel1Button":"Şimdi Başlayın",
+	"carousel2Title":"Sunu 2 Başlığı",
+	"carousel2Content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+	"carousel2Button":"Şimdi Başlayın",
+	"carousel3Title":"Sunu 3 Başlığı",
+	"carousel3Content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+	"carousel3Button":"Şimdi Başlayın",
+	"mainScreenH1Text":"~SITENAME~ Hoşgeldiniz",
+	"pages":"Sayfalar",
+	"littleContent1Title":"Başlık 1",
+	"littleContent2Title":"Başlık 2",
+	"littleContent3Title":"Başlık 3",
+	"littleContent1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"littleContent2":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"littleContent3":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"page1MiniDescription":"asdf fdsa yazılar yazılar",
+	"page2MiniDescription":"başka yazılar filan falan",
+	"page3MiniDescription":"Birşeyler birşeyler",
+
+
+	"aboutTitle":"~SITENAME~ Hakkında",
+	"theAboutText":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis? Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+	"ourTeam":"Çalışma Grubumuz",
+	"team1Name":"Ahmet Mehmet",
+	"team1Position":"Co-Founder",
+	"team1About":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.",
+	"team1Contact":"example@mail.com",
+	"team2Name":"Ahmet Mehmet",
+	"team2Position":"Co-Founder",
+	"team2About":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.",
+	"team2Contact":"example@mail.com",
+	"team3Name":"Ahmet Mehmet",
+	"team3Position":"Co-Founder",
+	"team3About":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.",
+	"team3Contact":"example@mail.com",
+	"team4Name":"Ahmet Mehmet",
+	"team4Position":"Co-Founder",
+	"team4About":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.",
+	"team4Contact":"example@mail.com",
+	"ourClients":"Müşterilerimiz",
+
+
+	"mapURL":"http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed",
+	"address":"3481 Melrose Place, Beverly Hills, CA 90210",
+	"contactNumber":"(123) 456-7890",
+	"contactMail":"ornek@mail.com",
+
+
+	"singlePageContent":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+	"singlePageHeader":"Yeni Sayfa Başlığı",
+
+
+	"question1":"Is it?",
+	"answer1":"Yes It is",
+	"question2":"Is it?",
+	"answer2":"Yes It is",
+	"question3":"Is it?",
+	"answer3":"Yes It is",
+	"question4":"Is it?",
+	"answer4":"Yes It is"
+
+}

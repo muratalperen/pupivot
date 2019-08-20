@@ -1,0 +1,9 @@
+# Backup file
+backend/backup.zip
+
+todo.txt
+
+# OS or Editor folders
+._*
+.cache
+.DS_Store

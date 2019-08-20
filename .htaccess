@@ -1,0 +1,13 @@
+# Forbidden directories
+RedirectMatch 403 backend/.*$
+RedirectMatch 403 padmin/.*$
+RedirectMatch 403 theme/backend/.*$
+RedirectMatch 403 theme/pages/.*$
+
+# Redirect everything to index
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+# Gzip and Deflate is good idea
