@@ -25,14 +25,14 @@ Install the code on your server. Enter your admin panel by typing "admin/". Log 
 
 ## Creating Own Theme
 
-Pupivot uses keywords and variables. Keywords creates the content of the website. Variables can be used in keywords. For example you can write " &lt;h1&gt;|welcomeMessage|&lt;/h1&gt; " in html, " 'welcomeMessage':'Welcome to ~websiteName~' " in keywords and " 'websiteName':'Good Website' ". When someone opens the page, he sees the "Welcome to Good Website" article in the title h1\. You must create variables that contain page names. For example, if you have an aboutPage.html file, you must define the "aboutPage" variable as the name of that page. Also there are some predefined variables:
+Pupivot uses keywords and variables. Keywords creates the content of the website. Variables can be used in keywords. For example you can write " &lt;h1&gt;|welcomeMessage|&lt;/h1&gt; " in html, " 'welcomeMessage':'Welcome to &#126;websiteName&#126;' " in keywords and " 'websiteName':'Good Website' ". When someone opens the page, he sees the "Welcome to Good Website" article in the title h1\. You must create variables that contain page names. For example, if you have an aboutPage.html file, you must define the "aboutPage" variable as the name of that page. Also there are some predefined variables:
 
 - URL : Returns the homepage link (<https://example.com/>)
 - URLL : Returns the homepage link with language extension (<https://example.com/en/>)
 - THISPAGENAME : Returns the name of that page.
 - SITENAME : Returns the site name
 
-For creating theme, create folder. In this folder, create folders named "assets", "backend", and "pages". You can put your assets in the asset folder. But it's important to put your pictures in the "assets/img/" folder. Put your all pages to "pages" folder with html format. Write your variables with ~VARIABLE~ and keywords with |KEYWORD|. In "backend" folder, put your website's header, footer and 404 page with html extensions. And create folder "data/en/". In "en" (it represents english) folder, create "content.json" and "variables.json". Put your data on there.
+For creating theme, create folder. In this folder, create folders named "assets", "backend", and "pages". You can put your assets in the asset folder. But it's important to put your pictures in the "assets/img/" folder. Put your all pages to "pages" folder with html format. Write your variables with &#126;VARIABLE&#126; and keywords with |KEYWORD|. In "backend" folder, put your website's header, footer and 404 page with html extensions. And create folder "data/en/". In "en" (it represents english) folder, create "content.json" and "variables.json". Put your data on there.
 
 After loading your theme, you can add other languages.
 
