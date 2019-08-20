@@ -1,4 +1,4 @@
-# pupivot
+# Pupivot
 
 ![Pupivot](pupivot.png)
 
